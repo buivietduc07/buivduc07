@@ -4,7 +4,7 @@
 <div align="center">
 
 <a href="https://github.com/buivduc07">
-<img src="https://github.com/user-attachments/assets/77f249fa-d3bf-4ece-aad2-7fe374d1217f" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=220&section=header&text=buivietduc07&fontSize=55&fontColor=ffffff&animation=fadeIn" />
 </a>
 
 [![GitHub Followers](https://img.shields.io/github/followers/CtorW?label=Follow&style=social)](https://github.com/buivduc07)
