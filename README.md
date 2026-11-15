@@ -76,5 +76,5 @@
 
 ------
 
-Credit: [Ctorw](https://github.com/CtorW)
-Last Edited on: 12/04/2005
+Credit: [Ctorw](https://github.com/buivduc07)
+Last Edited on: 24/04/2007
