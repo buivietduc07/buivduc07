@@ -4,7 +4,8 @@
 <div align="center">
 
 <a href="https://github.com/buivduc07">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=220&section=header&text=buivietduc07&fontSize=55&fontColor=ffffff&animation=fadeIn" />
+<a href="https://github.com/buivietduc07">
+  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&duration=2500&pause=800&color=00FF00&background=000000&center=true&vCenter=true&width=850&height=240&lines=buivietduc07;Welcome+to+my+GitHub;Developer+%7C+Python+%7C+JavaScript" />
 </a>
 
 [![GitHub Followers](https://img.shields.io/github/followers/CtorW?label=Follow&style=social)](https://github.com/buivduc07)
