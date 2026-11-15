@@ -3,11 +3,11 @@
 
 <div align="center">
 
-<a href="https://github.com/CtorW">
+<a href="https://github.com/buivduc07">
 <img src="https://github.com/user-attachments/assets/77f249fa-d3bf-4ece-aad2-7fe374d1217f" />
 </a>
 
-[![GitHub Followers](https://img.shields.io/github/followers/CtorW?label=Follow&style=social)](https://github.com/CtorW)
+[![GitHub Followers](https://img.shields.io/github/followers/CtorW?label=Follow&style=social)](https://github.com/buivduc07)
 [![GitHub Stars](https://img.shields.io/github/stars/CtorW?style=social)](https://github.com/CtorW)
 </div>
 
@@ -51,7 +51,7 @@
 
 <div align="Center">
 
-| CtorW's Stats | Ultimate Streak |
+| buivduc07's Stats | Ultimate Streak |
 | ------------- | ------------- |
 | ![CtorW's Stats](https://github-readme-stats.vercel.app/api?username=CtorW&theme=onedark&show_icons=true&hide_border=true&count_private=true)  | ![CtorW's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CtorW&theme=onedark&hide_border=true) 
 
